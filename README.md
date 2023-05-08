@@ -6,7 +6,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **ahmedessameldeen@outlook.com**
 
