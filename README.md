@@ -23,4 +23,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedessam01&show_icons=true&locale=en&layout=compact" alt="ahmedessam01" />
 </p>
 
-<a href="https://app.daily.dev/eiisso"><img src="https://api.daily.dev/devcards/2a45411dc8ef404abee865c0cdaf87fc.png?r=xj3" width="400" alt="Ahmed Essameldeen's Dev Card"/></a>
+<a href="https://app.daily.dev/eiisso" align="center"><img src="https://api.daily.dev/devcards/2a45411dc8ef404abee865c0cdaf87fc.png?r=xj3" width="400" alt="Ahmed Essameldeen's Dev Card"/></a>
