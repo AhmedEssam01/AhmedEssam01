@@ -6,7 +6,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Php & Laravel**
+- 🌱 I’m currently learning **React & Node js**
 
 - 📫 How to reach me **ahmedessameldeen@outlook.com**
 
